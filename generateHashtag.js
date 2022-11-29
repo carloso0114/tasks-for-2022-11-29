@@ -13,3 +13,5 @@ function generateHashtag (str) {
     return '#'+str.join('')
   }
 }
+
+console.log(generateHashtag('Soft serve rules'))

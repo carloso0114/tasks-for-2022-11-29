@@ -17,3 +17,5 @@ function nextPal(val) {
     }
   }
 }
+
+console.log(nextPal(11))
